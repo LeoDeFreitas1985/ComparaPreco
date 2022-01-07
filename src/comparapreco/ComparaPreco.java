@@ -30,6 +30,7 @@ public class ComparaPreco {
                  resultado [limite] = (quantidade[limite] * valor[limite]);
                  resultado [limite] = peso[limite]/resultado[limite];                 
                  System.out.println(resultado[limite]);
+            // teste
                  
         }
        
