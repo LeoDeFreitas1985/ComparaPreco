@@ -29,7 +29,7 @@ public class ComparaPreco {
                  peso [limite] = Float.parseFloat(JOptionPane.showInputDialog("Peso?"));
                  resultado [limite] = (quantidade[limite] * valor[limite]);
                  resultado [limite] = peso[limite]/resultado[limite];                 
-                 System.out.println(resultado[limite]);
+                 System.out.println(resultado[limite]);;
                  
         }
        
